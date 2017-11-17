@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>appletVotacio</title>
+        <vendor>victor</vendor>
+        <homepage href=""/>
+        <description>appletVotacio</description>
+        <description kind="short">appletVotacio</description>
+        
+        
+    </information>
+    <update check="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se java-vm-args="-Djava.security.policy=applet.policy" version="1.6+"/>
+        <jar href="appletVotacio.jar" main="true"/>
+        
+        
+    <jar href="lib/bcprov-jdk16-145.jar"/>
+<jar href="lib/bctsp-jdk16-146.jar"/>
+<jar href="lib/iText-5.0.6.jar"/>
+<jar href="lib/jdom.jar"/>
+<jar href="lib/log4j-1.2.16.jar"/>
+<jar href="lib/servlet-api.jar"/>
+<jar href="lib/DNIeFrameworkEmuJ.jar"/>
+<jar href="lib/commons-io.jar"/>
+<jar href="lib/DNIeFrameworkEmuJ.jar"/>
+<jar href="lib/commons-codec-1.7.jar"/>
+</resources>
+    <application-desc main-class="appletvotacio.AppletVotar">
+        
+    </application-desc>
+</jnlp>

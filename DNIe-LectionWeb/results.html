@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>DNIe-lection</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="style.css" media="screen"/>
+  <script src="ajustar_iframe_results.js"></script>
+</head>
+
+<body>
+  <div id="wrap">
+    <div id="header">
+      <h1><a href="index.html">DNIe-lection</a></h1>
+	  <h2></h2>
+      <h2>Sistema de votacio online</h2>
+    </div>
+	<div id="right">
+            <h2>Resultats</h2>
+            <div class="results">Aquí podeu veure l'estat actual de la votació.</div>
+            <iframe id="iframe1" width="100%" heigth="600px" src="./servlet/getEscrutini" onLoad="autoResize('iframe1');"></iframe> 
+            <div class = "news">&nbsp;&nbsp;&nbsp;&nbsp;</div>
+	    <div class = "image_vote" align="center"><a href="vote.html"><img src="images/vote.jpg" alt="Vota aquí"></a></div>
+	</div>
+    <div id="left"> 
+       <h3>Menu</h3>
+       <ul>
+		<li><a href="index.html">Pagina Principal</a></li> 
+		<li><a href="instructions.html">Instruccions de Funcionament</a></li> 
+		<li><a href="cens.html">Cens</a></li>
+		<li><a href="vote.html">Votar</a></li> 
+		<li><a href="faq.html">Preguntes Frequents</a></li>
+		<li><a href="results.html">Escrutini</a></li>
+		<li><a href="credits.html">Crèdits</a></li> 
+       </ul>
+       <h3> </h3>
+    </div>
+    <div style="clear: both;"> </div>
+    <div id="footer"> Designed by DNIe-lection Members </div>
+  </div>
+</body>
+</html>

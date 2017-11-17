@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dnie>
+    <datos>
+        <publicos>
+            <CN>Ramón-Cortés Vilarrodona, Cristián</CN>
+            <GN>Cristián</GN>
+            <SN>Ramón-Cortés</SN>
+            <SERIAL>53295906F</SERIAL>
+            <C>ES</C>
+            <!-- fechas AAMMDDhhmmssZ-->
+            <NB>2010-06-01</NB>
+            <NA>2012-06-01</NA>
+            <!-- status = ok/unknown/revoqued-->
+            <status>válido</status>
+            <verpades>true</verpades>
+            <!--serialnumber 32 números hexadecimales-->
+            <serialnumber>111111111111111111111111111111111</serialnumber>
+        </publicos>
+        <privados>
+            <pin>987654321</pin>
+            <intentos>3</intentos>
+        </privados>
+    </datos>
+    <autenticacion>
+        <privado>
+            -----BEGIN RSA PRIVATE KEY-----
+            MIIEpAIBAAKCAQEAorSAt4R9UNOA97lLrjYw5KfQj3VAMFS4bFYgtuOWA1y
++DZv6
+            AEpPbh6rb0xYrBeGkOFi+87New2znAhO4GZCx+BWe5FgP
++YtmQnvp2Wq6FCfjW1w
+
+h/eTiS9SuYAvthOi1Ome1DgcDZWtC9iYcKeF1bOHC0lRrhQjdTqpq159ck6FnAkm
+            /fEmpdB7ivJ1em4G
++EhE1QXJivElVAG6gOiMrLttB50JjZvgceTKbZ1Z6r0pia4h
+
+tjB7oE2Y3gs0zRfiYQ8ySnctApmGGNlJy6x1HTsW8TccOA3QVFrSzIJdt95QMvxZ
+
+BbMfzlXYiFl5T4WdK99ihLlYMexgprJpmdDpeQIDAQABAoIBAQCRbQaTgT9FDBZ8
+
+1MjZKKSg64HVh7ZcvIyugHjzHw5JaQ6SOXTF56WBRrZyX2nuP4TOYDXJ3fj5YLDF
+
+6QMfPSe5YUHLZpAB7SmaXTAwjgWpac6CaWwoi1f6SSsGlJWQh5KF/V4yTwh79+lY
+            6jqujn1oGfO9WcZA8s0SjeFzQ5yamjmoJR5in7OUg
++INAgpg/Xxklt1E4mdADhOa
+            HlG5Ft527fcthQb+vizSYLx5lziJ/zTQpiPy
++ndBtEBYaPtKhL0z9G8VS/AHG3oW
+
+dxDPTsN0wBorvQW1uz2r/zrOGDNaRBd8N8Kv2Y49Llz7rkCGbjZTi9PEGrXVcVDB
+            ulJd
++ablAoGBAM1OcqGXweFAvfYnpPDD/A3tvh7wJJY0b8Nd8FRvHSWHJenRnFm3
+            ScH71NHucgvl2/wZscaPCNgtYED0F1
++0izBJ4JusDNn3jJQIE6oQ/jdzk7Ssa7gE
+
+Q5iPwreC7G9YOgUtPNmbVJH7VDPWfRUA76pDnhZIn6ghXMLGgv5QdF7jAoGBAMrh
+            MkXAQakUrakRULYfkuEu6
++Ctl53vyLiILT0CM/pQT4w1EicbxemT8/HKkBRNwFk3
+            LRzyAo4pDs1l79kVdI0G+VyzP5/+2LBYTxqpA2gABZ8PfkeT62rY33Pu
++vHWVDDM
+
+mKnbexZgPCOpNyP6MRQixMBMLBrCy4GzOjn5mUjzAoGAMNamgjY9kr358mJ/5B5b
+            CV0yyt1JdsnGhG0GTK+Z+WFq7XJFhToKu7CScdYNHzNw30mldpxz
++CjjKtBl9whV
+            zAjm+2E0NW2j7Vr2gpBESSCfVG1nuoCZK
++OW6Fymrd4I/05BmWpP9eIZp7MwUhzE
+            5nXrV1WzVSWKkXLzmle9Nw0CgYEAjuOZEsNb
++4gS37bQT9VhD7SKcU4SMSyHBGD0
+            67k3fp89x5RBWsYW2HJaJ/vxCjvQs4VHAtH4tsN4J3YaPZz8367/xiiBMWC
++oUUx
+            Qae0PHV3gBXbbPJjpndkujShDd9UoKIZC9kHkjTpZnxx16cJFhN
++26lKjvaPeqQO
+            6HJBYb0CgYBNtGbQqMduoDUtxIGoSkp
++n52N9hxecmJIfc/z5ogcoDN2UICRrVrK
+            ClBSr3QCtQgEd5FrdGMp7asparMNFvO2L9ALhEGMre9SQ
++rzMKDy9pR4Foba4Ihv
+            mM08DTCzsDJXkJZp8y7cg4/Y/t19Fpn5osDRMuHdJPkIK4VJLvI1SQ==
+            -----END RSA PRIVATE KEY-----
+        </privado>
+        <publico>
+            -----BEGIN PUBLIC KEY-----
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAorSAt4R9UNOA97lLrjYw
+            5KfQj3VAMFS4bFYgtuOWA1y+DZv6AEpPbh6rb0xYrBeGkOFi
++87New2znAhO4GZC
+            x+BWe5FgP
++YtmQnvp2Wq6FCfjW1wh/eTiS9SuYAvthOi1Ome1DgcDZWtC9iYcKeF
+            1bOHC0lRrhQjdTqpq159ck6FnAkm/fEmpdB7ivJ1em4G
++EhE1QXJivElVAG6gOiM
+
+rLttB50JjZvgceTKbZ1Z6r0pia4htjB7oE2Y3gs0zRfiYQ8ySnctApmGGNlJy6x1
+
+HTsW8TccOA3QVFrSzIJdt95QMvxZBbMfzlXYiFl5T4WdK99ihLlYMexgprJpmdDp
+            eQIDAQAB
+            -----END PUBLIC KEY-----
+        </publico>
+    </autenticacion>
+    <firma>
+        <privado>
+            -----BEGIN RSA PRIVATE KEY-----
+            MIIEpAIBAAKCAQEAorSAt4R9UNOA97lLrjYw5KfQj3VAMFS4bFYgtuOWA1y
++DZv6
+            AEpPbh6rb0xYrBeGkOFi+87New2znAhO4GZCx+BWe5FgP
++YtmQnvp2Wq6FCfjW1w
+
+h/eTiS9SuYAvthOi1Ome1DgcDZWtC9iYcKeF1bOHC0lRrhQjdTqpq159ck6FnAkm
+            /fEmpdB7ivJ1em4G
++EhE1QXJivElVAG6gOiMrLttB50JjZvgceTKbZ1Z6r0pia4h
+
+tjB7oE2Y3gs0zRfiYQ8ySnctApmGGNlJy6x1HTsW8TccOA3QVFrSzIJdt95QMvxZ
+
+BbMfzlXYiFl5T4WdK99ihLlYMexgprJpmdDpeQIDAQABAoIBAQCRbQaTgT9FDBZ8
+
+1MjZKKSg64HVh7ZcvIyugHjzHw5JaQ6SOXTF56WBRrZyX2nuP4TOYDXJ3fj5YLDF
+
+6QMfPSe5YUHLZpAB7SmaXTAwjgWpac6CaWwoi1f6SSsGlJWQh5KF/V4yTwh79+lY
+            6jqujn1oGfO9WcZA8s0SjeFzQ5yamjmoJR5in7OUg
++INAgpg/Xxklt1E4mdADhOa
+            HlG5Ft527fcthQb+vizSYLx5lziJ/zTQpiPy
++ndBtEBYaPtKhL0z9G8VS/AHG3oW
+
+dxDPTsN0wBorvQW1uz2r/zrOGDNaRBd8N8Kv2Y49Llz7rkCGbjZTi9PEGrXVcVDB
+            ulJd
++ablAoGBAM1OcqGXweFAvfYnpPDD/A3tvh7wJJY0b8Nd8FRvHSWHJenRnFm3
+            ScH71NHucgvl2/wZscaPCNgtYED0F1
++0izBJ4JusDNn3jJQIE6oQ/jdzk7Ssa7gE
+
+Q5iPwreC7G9YOgUtPNmbVJH7VDPWfRUA76pDnhZIn6ghXMLGgv5QdF7jAoGBAMrh
+            MkXAQakUrakRULYfkuEu6
++Ctl53vyLiILT0CM/pQT4w1EicbxemT8/HKkBRNwFk3
+            LRzyAo4pDs1l79kVdI0G+VyzP5/+2LBYTxqpA2gABZ8PfkeT62rY33Pu
++vHWVDDM
+
+mKnbexZgPCOpNyP6MRQixMBMLBrCy4GzOjn5mUjzAoGAMNamgjY9kr358mJ/5B5b
+            CV0yyt1JdsnGhG0GTK+Z+WFq7XJFhToKu7CScdYNHzNw30mldpxz
++CjjKtBl9whV
+            zAjm+2E0NW2j7Vr2gpBESSCfVG1nuoCZK
++OW6Fymrd4I/05BmWpP9eIZp7MwUhzE
+            5nXrV1WzVSWKkXLzmle9Nw0CgYEAjuOZEsNb
++4gS37bQT9VhD7SKcU4SMSyHBGD0
+            67k3fp89x5RBWsYW2HJaJ/vxCjvQs4VHAtH4tsN4J3YaPZz8367/xiiBMWC
++oUUx
+            Qae0PHV3gBXbbPJjpndkujShDd9UoKIZC9kHkjTpZnxx16cJFhN
++26lKjvaPeqQO
+            6HJBYb0CgYBNtGbQqMduoDUtxIGoSkp
++n52N9hxecmJIfc/z5ogcoDN2UICRrVrK
+            ClBSr3QCtQgEd5FrdGMp7asparMNFvO2L9ALhEGMre9SQ
++rzMKDy9pR4Foba4Ihv
+            mM08DTCzsDJXkJZp8y7cg4/Y/t19Fpn5osDRMuHdJPkIK4VJLvI1SQ==
+            -----END RSA PRIVATE KEY-----
+        </privado>
+        <publico>
+            -----BEGIN PUBLIC KEY-----
+
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAorSAt4R9UNOA97lLrjYw
+            5KfQj3VAMFS4bFYgtuOWA1y+DZv6AEpPbh6rb0xYrBeGkOFi
++87New2znAhO4GZC
+            x+BWe5FgP
++YtmQnvp2Wq6FCfjW1wh/eTiS9SuYAvthOi1Ome1DgcDZWtC9iYcKeF
+            1bOHC0lRrhQjdTqpq159ck6FnAkm/fEmpdB7ivJ1em4G
++EhE1QXJivElVAG6gOiM
+
+rLttB50JjZvgceTKbZ1Z6r0pia4htjB7oE2Y3gs0zRfiYQ8ySnctApmGGNlJy6x1
+
+HTsW8TccOA3QVFrSzIJdt95QMvxZBbMfzlXYiFl5T4WdK99ihLlYMexgprJpmdDp
+            eQIDAQAB
+            -----END PUBLIC KEY-----
+        </publico>
+    </firma>
+</dnie>

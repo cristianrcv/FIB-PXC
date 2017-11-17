@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<candidatures>
+    <candidatura>
+        <nom>CiU</nom>
+    </candidatura>
+    <candidatura>
+        <nom>PSC</nom>
+    </candidatura>
+    <candidatura>
+        <nom>PPC</nom>
+    </candidatura>
+    <candidatura>
+        <nom>ERC</nom>
+    </candidatura>
+    <candidatura>
+        <nom>ICV</nom>
+    </candidatura>
+    <candidatura>
+        <nom>C's</nom>
+    </candidatura>
+    <candidatura>
+        <nom>SI</nom>
+    </candidatura>
+    <candidatura>
+        <nom>CUP</nom>
+    </candidatura>
+</candidatures>

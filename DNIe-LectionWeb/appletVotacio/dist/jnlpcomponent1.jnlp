@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="${jnlp.codebase.value}">
+    <information>
+        <title>jnlpcomponent1</title>
+        <vendor>BCKEY</vendor>
+    </information>
+    <security>
+        <all-permissions/>
+    </security>
+    <resources>
+        <jar href="lib/bcprov-jdk16-145.jar" download="eager"/>
+        <jar href="lib/bctsp-jdk16-146.jar" download="eager"/>
+    </resources>
+    <component-desc/>
+</jnlp>

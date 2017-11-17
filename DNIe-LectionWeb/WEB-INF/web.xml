@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE web-app
+    PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+    "http://java.sun.com/dtd/web-app_2_3.dtd">
+
+<web-app>
+    <display-name>DNIe-LectionWeb</display-name>
+    <description>DNIe-Lection Web.</description>
+
+    <servlet>
+        <servlet-name>getCandidatures</servlet-name>
+        <servlet-class>servlets.getCandidatures</servlet-class>
+    </servlet>
+    
+    <servlet>
+        <servlet-name>emitVote</servlet-name>
+        <servlet-class>servlets.emitVote</servlet-class>
+    </servlet>
+
+    <servlet>
+        <servlet-name>getCens</servlet-name>
+        <servlet-class>servlets.getCens</servlet-class>
+    </servlet>
+    
+    <servlet>
+        <servlet-name>getEscrutini</servlet-name>
+        <servlet-class>servlets.getEscrutini</servlet-class>
+    </servlet>
+    
+    <servlet-mapping>
+        <servlet-name>getCandidatures</servlet-name>
+	<url-pattern>/servlet/getCandidatures</url-pattern>
+    </servlet-mapping>
+    
+    <servlet-mapping>
+        <servlet-name>emitVote</servlet-name>
+	<url-pattern>/servlet/emitVote</url-pattern>
+    </servlet-mapping>
+
+    <servlet-mapping>
+        <servlet-name>getCens</servlet-name>
+        <url-pattern>/servlet/getCens</url-pattern>
+    </servlet-mapping>
+    
+    <servlet-mapping>
+        <servlet-name>getEscrutini</servlet-name>
+        <url-pattern>/servlet/getEscrutini</url-pattern>
+    </servlet-mapping>
+</web-app>
